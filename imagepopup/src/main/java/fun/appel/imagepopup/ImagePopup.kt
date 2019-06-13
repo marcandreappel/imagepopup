@@ -1,4 +1,4 @@
-package `fun`.appel.library
+package `fun`.appel.imagepopup
 
 import android.app.Activity
 import android.content.Context
