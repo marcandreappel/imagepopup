@@ -1,6 +1,6 @@
 # ImagePopup
 
-A rough clone of [chathuralakmal](https://github.com/chathuralakmal/AndroidImagePopup)s AndroidImagePopup.
+A rough clone of [chathuralakmal](https://github.com/chathuralakmal/AndroidImagePopup)s AndroidImagePopup. Working with the latest Picasso version.
 
 ## Installation
 
