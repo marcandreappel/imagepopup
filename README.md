@@ -19,6 +19,6 @@ app/build.gradle dependency:
 
 ```gradle
     dependencies {
-	implementation 'com.github.marcandreappel:imagepopup:1.0.0'
+	implementation 'com.github.marcandreappel:imagepopup:1.0.1'
     }
 ```
