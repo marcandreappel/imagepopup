@@ -1,6 +1,6 @@
 package `fun`.appel.sample
 
-import `fun`.appel.library.ImagePopup
+import `fun`.appel.imagepopup.ImagePopup
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*

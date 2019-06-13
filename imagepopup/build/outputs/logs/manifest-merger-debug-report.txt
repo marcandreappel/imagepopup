@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-40
-INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-40
-INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-40
-INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-40
-INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-40
-INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-40
-INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-40
+ADDED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-43
+INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-43
+INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-43
+INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-43
+INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-43
+INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-43
+INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-43
 	package
-		ADDED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:11-38
+		ADDED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:11-41
 		INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml
 		INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml
-		ADDED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-40
+		ADDED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-43
 		INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-40
+		ADDED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-43
 	android:versionCode
 		INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml
-		ADDED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-40
+		ADDED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml:1:1-43
 		INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml
 uses-sdk
 INJECTED from /home/marcandre/Workspace/Android/ImagePopup/imagepopup/src/main/AndroidManifest.xml reason: use-sdk injection requested
