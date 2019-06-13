@@ -8,17 +8,17 @@ build.gradle:
 
 ```gradle
     allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+	    ...
+	    maven { url 'https://jitpack.io' }
 	}
+    }
 ```
 
 app/build.gradle dependency:
 
 ```gradle
-	dependencies {
-	        implementation 'com.github.marcandreappel:imagepopup:1.0.0'
-	}
+    dependencies {
+	implementation 'com.github.marcandreappel:imagepopup:1.0.0'
+    }
 ```
